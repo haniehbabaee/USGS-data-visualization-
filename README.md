@@ -6,4 +6,5 @@ Data markers reflect the magnitude of the earthquake by their size and and depth
 
 Include popups that provide additional information about the earthquake when a marker is clicked.
 
-![2021-05-28 10_46_58-](https://user-images.githubusercontent.com/70447525/120002594-fcb10980-bfa2-11eb-8f4f-a4ff62c36fb1.jpg)
+
+![2021-05-28 10_54_46-Weather](https://user-images.githubusercontent.com/70447525/120002821-2c601180-bfa3-11eb-934e-5d7eb101b40a.jpg)
